@@ -1,0 +1,13 @@
+p {
+    color: blue;
+    font-size: 40px;
+}
+
+.texto {
+    color: red;
+}
+
+#texto2 {
+    color: yellow;
+    color: 20px;
+}
