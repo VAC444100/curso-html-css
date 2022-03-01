@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: burlywood;
+    height: 40px;
+    padding: 10px;
+}
+
+main {
+    background-color: tomato;
+    width: 100vw;
+    height: 500px;
+}
+
+aside {
+    background-color: violet;
+    height: 100%;
+    width: 160px;
+    overflow: hidden;
+}
+
+aside div {
+    width: 100px;
+    height: 100px;
+    background-color: turquoise;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: burlywood;
+    height: 40px;
+    padding: 10px;
+}
+
+footer p {
+    display: inline-block;
+}
+
+.texto2 {
+    position: relative;
+    left: 1260px;
+}
