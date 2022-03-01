@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: aquamarine;
+    width: 600px;
+    height: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 60px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.title {
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
